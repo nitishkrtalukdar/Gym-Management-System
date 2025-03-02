@@ -75,9 +75,9 @@ FILE STRUCTURE
     Gym Management System Screenshot
     Example of the Gym Management System GUI.
     
-    ![image](https://github.com/user-attachments/assets/427fad2b-c3c9-4ee7-90ae-5813f4700f88)
+  ![image](https://github.com/user-attachments/assets/427fad2b-c3c9-4ee7-90ae-5813f4700f88)
     
-    ![image](https://github.com/user-attachments/assets/c973c456-5c2c-4aef-bff7-fb5298a27cf7)
+  ![image](https://github.com/user-attachments/assets/c973c456-5c2c-4aef-bff7-fb5298a27cf7)
 
 
 
