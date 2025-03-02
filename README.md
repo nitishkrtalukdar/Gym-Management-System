@@ -1,4 +1,5 @@
 GYM MANAGEMENT SYSTEM
+
 A simple Gym Management System built using Python and Tkinter for GUI. This application allows gym administrators to manage members, calculate membership prices, and view member details in a table.
 
 FEATURES
